@@ -1,0 +1,9 @@
+main.c:86:6:get_sine_val	24	static
+main.c:94:6:generateFSK2D	104	static
+main.c:147:5:main	10680	static
+main.c:212:6:SystemClock_Config	72	static
+main.c:249:13:MX_DAC1_Init	24	static
+main.c:287:13:MX_TIM2_Init	40	static
+main.c:330:13:MX_DMA_Init	16	static
+main.c:348:13:MX_GPIO_Init	16	static
+main.c:364:6:Error_Handler	4	static
